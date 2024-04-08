@@ -1,0 +1,37 @@
+{
+    "18501ae9-7f04-a3fc-a23a-09f6faf9159a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/2D_Evil_Med_Thumb.tex.nasset"
+    },
+    "4dc778d1-af27-4d17-b29d-d75d62896da5": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "2D Evil Med",
+        "thumbnail": "18501ae9-7f04-a3fc-a23a-09f6faf9159a",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "b11c6e24-77db-9448-a4d2-09b8c803b61c": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "e2d16c87-9058-4c57-b6f1-0b18b08cbd14": {
+        "assetTypeGuid": "be3e4b1b-40cb-409f-8bec-bcd10e57a3e2",
+        "path": "Assets/Scripts/simple_move.script.nasset"
+    },
+    "f078498a-ddba-46e3-be31-416d29c5bc2b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/2D Evil Med.scene.nasset"
+    },
+    "f3c8e783-fcb6-4b21-8dd4-2861caa6e1d3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "guid": "b11c6e24-77db-9448-a4d2-09b8c803b61c"
+}
