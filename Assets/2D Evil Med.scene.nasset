@@ -128,8 +128,8 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
-                "irradiance": "",
-                "prefiltered": ""
+                "irradiance": "019460cb-45de-73ad-5b85-bfd7f5980e96",
+                "prefiltered": "019460cb-461e-708e-a2e5-4fd962b0d265"
             },
             "data_components": [
                 {
@@ -154,7 +154,7 @@
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": ""
+                "asset": "f3c8e783-fcb6-4b21-8dd4-2861caa6e1d3"
             },
             "data_components": [
                 {
@@ -183,7 +183,7 @@
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-                "material_instance": ""
+                "material_instance": "2a6652c4-e989-4489-87ce-310732092628"
             },
             "data_components": [
                 {
